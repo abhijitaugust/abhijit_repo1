@@ -1,2 +1,4 @@
 Document 1 -  
 this is first git directory material file
+,
+the commit succeeded and this is an edit from remote repository
